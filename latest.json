@@ -1,7 +1,7 @@
 
 {
-  "versionCode": 52,
-  "versionName": "1.3.20",
-  "apkUrl": "https://github.com/kiddocartoons93-cell/babynest-releases/releases/download/Baby_Nest_v1.3.20/Baby_Nest_v1.3.20.apk",
-  "releaseNotes": "Baby Nest version 1.3.20 is now available."
+  "versionCode": 54,
+  "versionName": "1.3.22",
+  "apkUrl": "https://github.com/kiddocartoons93-cell/babynest-releases/releases/download/Baby_Nest_v1.3.22/Baby_Nest_v1.3.22.apk",
+  "releaseNotes": "Fixes invoice item dropdown layering and touch interaction on Android."
 }
